@@ -11,29 +11,29 @@ Dataset Link:
 https://www.kaggle.com/datasets/gabriellecharlton/bookstore-financial-dataset-2019-2024-calgary
 
 ### Variables I plan to use in the "Inventory Dataset";
-Month
-From
-To
-QTY
-unit_cost
-unit_price
+- Month
+- From
+- To
+- QTY
+- unit_cost
+- unit_price
 
 ### Variables I plan to use in the "Sales Dataset";
-Date
-Year
-Store_id
-transactions
-revenue
-gst_collected
-net_revnue
+- Date
+- Year
+- Store_id
+- transactions
+- revenue
+- gst_collected
+- net_revnue
 
 ### Risks and Challenges
 Determining what is the ideal amount of inventory per store. 
 Categorizing;
-Overstock
-Properly stocked
-Understocked
-Properly joining the tables as there is only one or two indicators to join the datasets
+- Overstock
+- Properly stocked
+- Understocked
+- Properly joining the tables as there is only one or two indicators to join the datasets
 
 ### First steps
 Joining the tables together to efficiently determine stocking factors.
