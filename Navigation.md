@@ -14,12 +14,13 @@ Most of the Data Cleaning occurred in BigQuery
 Click on the 'SQL Code' folder to see the Queries built before joining the tables together
 - Got rid of unnecessary columns using these queries
 - Calculated a weighted average for unit price
-
-## Advanced Data Engineering & Model Analysis
 Click on 'bookstore_MOS.ipynb'
-In here you will find the calculations for Month of Supply. What does this mean? This is where I answer my question of if a store is 'understocked', 'properly stocked' or overstocked'. I used 3 different models in this code.
+In here you will find the calculations for Month of Supply. What does this mean? This is where I answer my question of if a store is 'understocked', 'properly stocked' or overstocked'. 
+
+## Advanced Model Analysis
+I used 3 different models in this code.
 - Random Forest Regression
 - SARIMA
 - Prophet
-
+Click on 'bookstore_MOS&Forecasting_Analysis.ipynb'
 Random Forest Regression model was used to the importance of each column and what is driving revenue up. It was determined that total_qty was a big factor in the profitablity of the stores. This displays that there is a "Supply Limit" hindering the stores from selling more so I decided to look into how much stock each store needed to meet a higher MOS. SARIMA helped me determine the highs and lows of forecasted months for the demand of books for the downtown store. However SARIMA is prone to skewing data due to noise of seasonality. Prophet helped me determine how much inventory was needed to raise the each stores MOS to 1.5.
