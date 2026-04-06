@@ -35,6 +35,14 @@ Categorizing;
 - Understocked
 - Properly joining the tables as there is only one or two indicators to join the datasets
 
-### First steps
-Joining the tables together to efficiently determine stocking factors.
+### Steps Process
+- Data Cleaning - Remove Null Values.
+- Feature Engineering the datasets seperately.
+- Joining the tables together to efficiently determine stocking factors.
+- Model Creation to determine how each store is stocked
+
+### Modeling
+- Random Forest Regression Model
+- SARIMA
+- Prophet
 
