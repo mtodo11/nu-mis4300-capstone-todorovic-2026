@@ -26,3 +26,8 @@ I used 3 different models in this code.
 - Click on 'bookstore_MOS&Forecasting_Analysis.ipynb'
 
 Random Forest Regression model was used to see the importance of each column and what is driving revenue up. It was determined that total_qty was a big factor in the profitablity of the stores. This displays that there is a "Supply Limit" hindering the stores from selling more so I decided to look into how much stock each store needed to meet a higher MOS. SARIMA helped me determine the highs and lows of forecasted months for the demand of books for the downtown store. However SARIMA is prone to skewing data due to noise of seasonality. Prophet helped me determine how much inventory was needed to raise the each stores MOS to 1.5.
+
+## Final Results
+In the 'notebook' folder click into the 'Final Product' folder
+- 'bookstore_Final_Analysis.ipynb'
+This is the file that has the final two models need for the analysis. Random Forest Regressor Model will be used again after the store restocks shelves to determine what Feature Importance is the most significant after stockouts have been resolved. Prophet model will be the next ongoing Forest Model for this retail book store company as it has displayed the best accuracies.
