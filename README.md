@@ -10,6 +10,9 @@ This problem matters due to overspending on shipping of inventory to a store jus
 Dataset Link:
 https://www.kaggle.com/datasets/gabriellecharlton/bookstore-financial-dataset-2019-2024-calgary
 
+### Replication
+- Refer to Navigation File
+
 ### Variables I plan to use in the "Inventory Dataset";
 - Month
 - From
