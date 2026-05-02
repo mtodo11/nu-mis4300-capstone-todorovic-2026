@@ -2,7 +2,7 @@
 
 ## Book Store Inventory Oversight
 
-### Question of Concern
+## Question of Concern
 The concept of this project is to determine if the bookstore company in Calgary is running into stockouts in a positive or negative way. It costs money to move inventory between the warehouse and the in person locations. 
 
 This problem matters due to overspending on shipping of inventory to a store just to sit on a shelf where as that store location may not get enough traffic to match the inventory that have.
