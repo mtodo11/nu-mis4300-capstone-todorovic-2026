@@ -23,9 +23,9 @@ https://www.kaggle.com/datasets/gabriellecharlton/bookstore-financial-dataset-20
 - **The "Supply Limit:** Random Forest Regression Model revealed that total incoming quantity (total_qty) accounts for **88.9%** of the feature importance for revenue, suggesting a physical supply limit on store earnings.
 - **Stockouts:** Every analyzed store is currently running into monthly stockouts, hindering potential revenue.
 - **Target Strategy:** To reach a **MOS of 1.5**, the following shipments were calcuated for January 2025:
--   **YYC-DT:** 5,742 units
--   **YYC-NW:** 4,121 units
--   **YYC-SE:** 2,316 units
+-     **YYC-DT:** 5,742 units
+-     **YYC-NW:** 4,121 units
+-     **YYC-SE:** 2,316 units
 
 ### Data Prepartion & Engineering
 
