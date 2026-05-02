@@ -53,12 +53,13 @@ https://www.kaggle.com/datasets/gabriellecharlton/bookstore-financial-dataset-20
 - For a detailed walkthrough of the project structure please follow the steps in **Navigation.md**
 
 ### Limitations
-- Determining what is the ideal amount of inventory per store. \\  
-Categorizing; \\  
+- Determining what is the ideal amount of inventory per store.   
+Categorizing; 
 - Overstock
 - Properly stocked
 - Understocked
-- Properly joining the tables as there is only one or two indicators to join the datasets \\  
+- Properly joining the tables as there is only one or two indicators to join the datasets
+ 
 __Feature Engineering Requirements__
 - No Units Sold column
 - No tracking of what books were sold
