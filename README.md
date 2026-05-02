@@ -1,4 +1,4 @@
-# nu-mis4300-capstone-todorovic-2026
+# MIS-4300 Data Analytics Capstone Project
 
 ## Book Store Inventory Oversight
 
