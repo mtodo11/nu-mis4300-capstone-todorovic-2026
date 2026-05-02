@@ -27,7 +27,7 @@ https://www.kaggle.com/datasets/gabriellecharlton/bookstore-financial-dataset-20
 -   **YYC-NW:** 4,121 units
 -   **YYC-SE:** 2,316 units
 
-### Data Prepartion and & Engineering
+### Data Prepartion & Engineering
 
 - **SQL Data Prep:** Filtered out unnecessary columns to reduce overengineered results. Generated new aggregate columns
 - **Python Filtering & Joins:** Joined the two datasets together and filtered out 2019 & 2020 to remove outliers caused by COVID-19 pandemic
@@ -53,13 +53,13 @@ https://www.kaggle.com/datasets/gabriellecharlton/bookstore-financial-dataset-20
 - For a detailed walkthrough of the project structure please follow the steps in **Navigation.md**
 
 ### Limitations
-- Determining what is the ideal amount of inventory per store. 
-Categorizing;
+- Determining what is the ideal amount of inventory per store. \\
+Categorizing;\\
 - Overstock
 - Properly stocked
 - Understocked
-- Properly joining the tables as there is only one or two indicators to join the datasets
-__Feature Engineering Requuirements__
+- Properly joining the tables as there is only one or two indicators to join the datasets\\
+__Feature Engineering Requirements__
 - No Units Sold column
 - No tracking of what books were sold
 - No genres were tracked
