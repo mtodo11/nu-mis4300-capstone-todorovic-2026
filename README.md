@@ -53,7 +53,7 @@ https://www.kaggle.com/datasets/gabriellecharlton/bookstore-financial-dataset-20
 - For a detailed walkthrough of the project structure please follow the steps in **Navigation.md**
 
 ### Limitations
-- Determining what is the ideal amount of inventory per store.   
+- Determining what is the ideal amount of inventory per store  
 Categorizing; 
 - Overstock
 - Properly stocked
