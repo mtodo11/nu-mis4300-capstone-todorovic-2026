@@ -4,7 +4,12 @@
 Click the 'datasets' folder
 In the folder is the 2 datasets I have used in the this project
 - 'bookstore_inventory.csv'
-- 'bookstore_sales.csv'
+- 'bookstore_sales.csv'  
+For cleaned and feature engineered datasets
+Refer to 'SQL Exports' folder
+In the folder is both datasets cleaned
+- 'INV_STORE_LEVEL_WEIGHTED_AVG_PRICE.csv'
+- 'Store_Level_SALE_Revenue.csv'
 
 ## Data Cleaning & Feature Engineering
 Click on the 'notebook' folder
@@ -30,4 +35,4 @@ Random Forest Regression model was used to see the importance of each column and
 ## Final Results
 In the 'notebook' folder click into the 'Final Product' folder
 - 'bookstore_Final_Analysis.ipynb'  
-This is the file that has the final two models need for the analysis. Random Forest Regressor Model will be used again after the store restocks shelves to determine what Feature Importance is the most significant after stockouts have been resolved. Prophet model will be the next ongoing Forest Model for this retail book store company as it has displayed the best accuracies.
+  - This is the file that has the final two models need for the analysis. Random Forest Regressor Model will be used again after the store restocks shelves to determine what Feature Importance is the most significant after stockouts have been resolved. Prophet model will be the next ongoing Forest Model for this retail book store company as it has displayed the best accuracies.
