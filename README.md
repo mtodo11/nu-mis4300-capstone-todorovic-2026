@@ -19,7 +19,7 @@ https://www.kaggle.com/datasets/gabriellecharlton/bookstore-financial-dataset-20
 
 ### Key Findings & Business Impact
 - **Best Performing Model: Prophet** was selected as the final most efficient model. It outperformed SARIMA by better capturing aggressive seasonality of the Calgary book store market. **Prophet** provided a robust and scalable results that is easily adjustable compared to SARIMA.
-- **Prophet:** Resulted a **MAPE: 7.8%** for a 30 day forecast and a **32.5 error reduction** compared to SARIMA
+- **Prophet:** Resulted a **MAPE: 7.8%** for a 30 day forecast and a **32.5% error reduction** compared to SARIMA
 - **The "Supply Limit:** Random Forest Regression Model revealed that total incoming quantity (total_qty) accounts for **88.9%** of the feature importance for revenue, suggesting a physical supply limit on store earnings.
 - **Stockouts:** Every analyzed store is currently running into monthly stockouts, hindering potential revenue.
 - **Target Strategy:** To reach a **MOS of 1.5**, the following shipments were calcuated for January 2025:
