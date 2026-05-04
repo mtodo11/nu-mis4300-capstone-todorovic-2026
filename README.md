@@ -11,7 +11,7 @@ How can we use inventory and sales data to determine **Stocking Levels**?
 **Dataset Link:**
 https://www.kaggle.com/datasets/gabriellecharlton/bookstore-financial-dataset-2019-2024-calgary
 
-### Key Variables;
+### Key Variables
 - **Month of Supply (MOS):** Calculates a proportion based statistic to determine Supply of the Month based on total units sold.
 - **wavg_unit_price:** Determined the average price for the month based on the number of units being shipped in. 
 - **total_qty:** Total Inventory being shipped into each store per month.
@@ -54,7 +54,7 @@ https://www.kaggle.com/datasets/gabriellecharlton/bookstore-financial-dataset-20
 
 ### Limitations
 - Determining what is the ideal amount of inventory per store  
-- Categorizing; 
+- Categorizing 
   - Overstock
   - Properly stocked
   - Understocked
