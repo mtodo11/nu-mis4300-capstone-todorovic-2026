@@ -64,5 +64,5 @@ https://www.kaggle.com/datasets/gabriellecharlton/bookstore-financial-dataset-20
  
 __Feature Engineering Requirements__
 - No Units Sold column
-- No tracking of what books were sold
+- No tracking of what book ids were sold
 - No genres were tracked
