@@ -54,11 +54,13 @@ https://www.kaggle.com/datasets/gabriellecharlton/bookstore-financial-dataset-20
 
 ### Limitations
 - Determining what is the ideal amount of inventory per store  
-Categorizing; 
-- Overstock
-- Properly stocked
-- Understocked
+- Categorizing; 
+  - Overstock
+  - Properly stocked
+  - Understocked
 - Properly joining the tables as there is only one or two indicators to join the datasets
+- No units sold column in original dataset
+
  
 __Feature Engineering Requirements__
 - No Units Sold column
