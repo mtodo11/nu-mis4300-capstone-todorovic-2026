@@ -5,6 +5,7 @@ Click the 'datasets' folder
 In the folder is the 2 datasets I have used in the this project
 - 'bookstore_inventory.csv'
 - 'bookstore_sales.csv'  
+
 For cleaned and feature engineered datasets
 Refer to 'SQL Exports' folder
 In the folder is both datasets cleaned
